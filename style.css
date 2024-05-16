@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-shadow: border-box;
+}
+
+:root {
+    --White: hsl(0, 0%, 100%);
+    --Grey: hsl(0, 0%, 20%);
+    --DarkGrey: hsl(0, 0%, 12%);
+    --OffBlack: hsl(0, 0%, 8%);
+    --Green: hsl(75, 94%, 57%);
+   }
+
+.overall {
+    background-color: var(--OffBlack);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+p {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
+    font-size: 14px;
+}
+
+h2 {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
+    font-size: 18px;
+    color: var(--White);
+    text-align: center;
+}
+
+.name p {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
+    font-size: 14px;
+    color: var(--Green);
+    text-align: center;
+    margin-top: 5px;
+}
+
+.main {
+    background-color: var(--DarkGrey);
+    padding: 20px;
+    width: 300px;
+    border-radius: 8px;
+    margin: auto;
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+    display: flex;
+    margin-bottom: 25px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.status {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
+    font-size: 10px;
+    color: var(--White);
+    text-align: center;
+    margin-top: 25px;
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.input {
+    background-color: var(--Grey);
+    border-radius: 5px;
+    border: none;
+    height: 48px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    color: var(--White);
+    text-decoration: none;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
+    font-size: 14px;
+    text-align: center;
+    align-content: center;
+}
+
+.input:hover {
+    color: var(--OffBlack);
+    background-color: var(--Green);
+    transition: 0.3s
+}
+
+.love {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
+    font-size: 9px;
+    color: var(--White);
+    text-align: center;
+    margin-top: 20px;
+}
+
+.love-link {
+    text-decoration: none;
+    color: var(--Green);
+    cursor: pointer;
+}
+
+.love-link:hover {
+    color: var(--White);
+}
