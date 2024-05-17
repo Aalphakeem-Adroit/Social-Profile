@@ -20,7 +20,7 @@
 
 - Solution URL: [Solution URL here](git remote add origin https://github.com/Aalphakeem-Adroit/Social-Profile.git)
 - Live Site URL: [Live site URL here](https://aalphakeem-adroit.github.io/social-profile)
-g
+- 
 ## My process
 
 ### Built with
