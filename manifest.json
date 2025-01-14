@@ -1,0 +1,16 @@
+{
+    "name": "Alphakeem Adroit Contact",
+    "short_name": "Alphakeem",
+    "icons": [
+      {
+        "src": "/path-to-icon.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000"
+  }
+  

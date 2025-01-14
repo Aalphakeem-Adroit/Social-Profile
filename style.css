@@ -105,8 +105,8 @@ img {
     font-style: normal;
     font-variation-settings: "slnt" 0;
     font-size: 14px;
-    text-align: center;
-    align-content: center;
+    text-align: center !important;
+    align-content: center !important;
 }
 
 .input:hover {
