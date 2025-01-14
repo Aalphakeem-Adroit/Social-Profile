@@ -18,9 +18,15 @@
 
 ### Links
 
+<<<<<<< HEAD
 - Solution URL: [Add solution URL here](git remote add origin https://github.com/Aalphakeem-Adroit/Social-Profile.git)
 - Live Site URL: [Click here](https://aalphakeem-adroit.github.io/social-profile)
 
+=======
+- Solution URL: git remote add origin https://github.com/Aalphakeem-Adroit/Social-Profile.git
+- Live Site URL: https://aalphakeem-adroit.github.io/social-profile
+- 
+>>>>>>> ed1c43e487c2d564cd35b332eb8f47acff3fefc6
 ## My process
 
 ### Built with
