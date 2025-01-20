@@ -5,7 +5,7 @@
 *.sketch
 *.fig
 
-# Avoid accidental XD upload if you convert the design file
+# Avoid accidental XD upload if you are converting the design file
 ###############################################
 ## Please do not remove line 12 - thanks! 🙂 ##
 ###############################################
